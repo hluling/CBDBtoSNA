@@ -28,7 +28,7 @@ xxxxx.gexf **或/or** xxxxx.graphml
 另外，用户须安装 Python 工具库－[lxml](https://lxml.de/)。
 
 User's computer must have Python 3 installed.
-In addition, user must install the Python library—[lxml](https://lxml.de/).
+In addition, users must install the Python library—[lxml](https://lxml.de/).
 
 ## 五、使用 / V. How to Run the Script：
 用户可在命令行界面（Command-Line Interface）中运行 CBDBtoSNA.py。
