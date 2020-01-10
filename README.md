@@ -1,7 +1,5 @@
 # CBDBtoSNA
-Note by LH: The .py mentioned in the README main text refers to CBDBtoSNA_vx.xx.py
-README draft revision date: 02/12/2019.
-Translation finished with help from ChiCheng.
+Created by: Luling Huang (luling.huang@temple.edu) & Marcus Bingenheimer (bingenheimer@temple.edu)
 ## 一、简介 / I. Introduction：
 **CBDBtoSNA.py** 是一个将**中国历代人物传记资料库** ([**China Biographical Database**](https://projects.iq.harvard.edu/cbdb)) 中的人物关系网络转换成:
 - [**GEXF** (Graph Exchange XML Format)]( https://gephi.org/gexf/format/) 格式
